@@ -94,6 +94,7 @@ There is a reason why there are no answers here — you as an interviewee should
 - What is _duck typing_?
 - Explain what Rails engines are? Provide examples of commonly used engines
 - What deployment tools do you use?
+- What does your development setup look like?
 - Why do some people say _"Rails can't scale"_?
 - When is Rails a good choice for a project?
 - What are some of the drawbacks of Rails?
