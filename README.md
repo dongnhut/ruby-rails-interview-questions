@@ -9,7 +9,6 @@ There is a reason why there are no answers here — you as an interviewee should
 - Compare `Symbol` and `String`, why use one vs the other?
 - Describe multiple ways to define an _instance method_ in Ruby; now do the similar for _class methods_
 - Which is generally the better option (not only for Ruby): a _recursive_ function or an _iterative_ one?
-- What are `#method_missing` and `#send`? Why are they useful?
 - What are the various Ruby runtimes, and how are they different?
 - What does `self` mean when used in a class?
 - What does it mean that _"everything in Ruby is an object"_?
@@ -23,6 +22,7 @@ There is a reason why there are no answers here — you as an interviewee should
 - Is it bad to rescue `Exception`? Why?
 - What's the difference between the `&` and `&&` operators?
 - What's the difference between the `and` and `&&` operators? Why use one over the other?
+- What are `#method_missing` and `#send`? Why are they useful?
 - What is **meta-programming**, what methods of **meta-programming** does Ruby support, and when/why would you use it in a project?
 - What does the `#lazy` method do to enumerators and why is that useful?
 - Why do some methods end with a bang `!` and others with question marks `?`, what are they called and what do they do?
