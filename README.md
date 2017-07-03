@@ -44,6 +44,7 @@ There is a reason why there are no answers here — you as an interviewee should
 - What's the difference between `local`, `@instance`, `@@class`, and `$global` variables? Why and where would you use specific type?
 - How can you implement method overloading?
 - How can you call the _base class method_ from inside of its _overriden method_?
+- What is Global Interpreter Lock (GIL)?
 
 # Rails
 
@@ -71,7 +72,7 @@ There is a reason why there are no answers here — you as an interviewee should
 - What is Rails _concern_?
 - What is functionality of _helpers_?
 - Which Rails server are you using?
-- Which HTML template engine does Rails support?
+- Which HTML template engine does Rails support _by default_?
 - What are some ActiveRecords callbacks which you are familiar with?
 - Does ActiveRecord have `after_delete` callback?
 - What are the benefits of using active records as opposed to native SQL queries. On which occasion should you be choosing one over the other?
