@@ -99,6 +99,7 @@ There is a reason why there are no answers here — you as an interviewee should
 - Why do some people say _"Rails can't scale"_?
 - When is Rails a good choice for a project?
 - What are some of the drawbacks of Rails?
+- What are Form Objects? Why are they useful? Where would you use them?
 
 # Meta
 
