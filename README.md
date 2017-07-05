@@ -84,9 +84,9 @@ There is a reason why there are no answers here — you as an interviewee should
 - Where would you use `#pluck` and why exactly is it useful?
 - Explain _eager loading_
 - How can you eager load associated objects?
-- What is difference between `render` and `redirect`?
-- What is difference between `#save!` and `#save`? (Elaborate on general difference between AR methods with and without a bang `!`)
-- What is difference between `form_for` and `form_tag`?
+- What is the difference between `render` and `redirect`?
+- What is the difference between `#save!` and `#save`? (Elaborate on general difference between AR methods with and without a bang `!`)
+- What is the difference between `form_for` and `form_tag`?
 - What is the purpose of `environment.rb` and `application.rb` files?
 - What is `request.xhr`?
 - How can you list all routes for a Rails application?
