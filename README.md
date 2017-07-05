@@ -101,6 +101,7 @@ There is a reason why there are no answers here — you as an interviewee should
 - What are some of the drawbacks of Rails?
 - What are Form Objects? Why are they useful? Where would you use them?
 - What are Query Objects? Why are they useful? Where would you use them?
+- What are View Objects? Why are they useful? Where would you use them?
 
 # Meta
 
